@@ -1,6 +1,6 @@
 <div align="center">
  
-**🌗 마공포 코드 인트라넷 거래 보고서 감사 프로그 🌗**
+**🌗 마공포 코드 인트라넷 거래 보고서 감사 프로그램 🌗**
 ---
 
 [![Discord](https://img.shields.io/discord/920994802579959889?style=flat&logo=discord&logoColor=white&logoSize=auto&label=%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C&labelColor=8748E1&color=CF90FF)](https://discord.com/invite/SSwMF9s8ap)
