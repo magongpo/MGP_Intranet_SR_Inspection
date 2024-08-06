@@ -22,7 +22,7 @@
 📂 (자동 설치) : 우측 Release 또는 상단 Tags 를 통해 원하는 버전 선택 -> `MGP_Intranet_SR_Inspection_Setup_버전.zip` 압축파일 다운로드 -> 압축해제 -> Setup 파일 실행 -> 설치 진행
 
 📂 (수동 설치) : 우측 Release 또는 상단 Tags 를 통해 원하는 버전 선택 -> `MGP_Intranet_SR_Inspection_버전.zip` 압축파일 다운로드 -> 압축해제 
-```수동 설치 시 JAVA JDK 17 버전, selenium, chromedriver 등 설치되어있어야 하며, JAVA의 경우 환경 변수로 등록되어있어야 하며, 그 외에는 해당 프로그램과 동일한 경로에 존재하여야 합니다.```
+```수동 설치 시 JAVA JDK 17 버전, chromedriver 등 설치되어있어야 하며, JAVA의 경우 환경 변수로 등록되어있어야 하며, 그 외에는 해당 프로그램과 동일한 경로에 존재하여야 합니다.```
 
 <br>
 
