@@ -4,7 +4,7 @@
 ---
 
 [![Discord](https://img.shields.io/discord/920994802579959889?style=flat&logo=discord&logoColor=white&logoSize=auto&label=%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C&labelColor=8748E1&color=CF90FF)](https://discord.com/invite/SSwMF9s8ap)
-![Static Badge](https://img.shields.io/badge/Release%201.0.0.1-50AF49?style=flat&logo=verizon&logoColor=white&logoSize=auto&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&labelColor=1A7913)
+![Static Badge](https://img.shields.io/badge/Release%201.0.2.2-50AF49?style=flat&logo=verizon&logoColor=white&logoSize=auto&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&labelColor=1A7913)
 [![Static Badge](https://img.shields.io/badge/%EC%A0%91%EC%86%8D-6799FF?style=flat&logo=homepage&logoColor=white&logoSize=auto&label=%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80&labelColor=3163C9)
 ](https://magongpo.com)
 
@@ -19,6 +19,7 @@
 
 📂 (수동 설치) : 우측 Release 또는 상단 Tags 를 통해 원하는 버전 선택 -> `MGP_Intranet_SR_Inspection_버전.zip` 압축파일 다운로드 -> 압축해제 
 ```수동 설치 시 JAVA JDK 17 버전, chromedriver 등 설치되어있어야 하며, JAVA의 경우 환경 변수로 등록되어있어야 하며, 그 외에는 해당 프로그램과 동일한 경로에 존재하여야 합니다.```
+```수동 설치 시 "\AppData\Roaming\" 경로에 "MGP_Intranet_Program" 폴더 생성 후 "MGP_ISR_RESULT.dat" 파일을 생성해주어야 합니다.```
 
 <br>
 
