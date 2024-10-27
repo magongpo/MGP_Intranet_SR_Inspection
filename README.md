@@ -4,7 +4,7 @@
 ---
 
 [![Discord](https://img.shields.io/discord/920994802579959889?style=flat&logo=discord&logoColor=white&logoSize=auto&label=%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C&labelColor=8748E1&color=CF90FF)](https://discord.com/invite/SSwMF9s8ap)
-![Static Badge](https://img.shields.io/badge/Release%201.1.0.0-50AF49?style=flat&logo=verizon&logoColor=white&logoSize=auto&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&labelColor=1A7913)
+![Static Badge](https://img.shields.io/badge/Release%201.2.0.0-50AF49?style=flat&logo=verizon&logoColor=white&logoSize=auto&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&labelColor=1A7913)
 [![Static Badge](https://img.shields.io/badge/%EC%A0%91%EC%86%8D-6799FF?style=flat&logo=homepage&logoColor=white&logoSize=auto&label=%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80&labelColor=3163C9)
 ](https://magongpo.com)
 
